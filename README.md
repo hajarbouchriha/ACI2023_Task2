@@ -31,6 +31,6 @@ This Python script automates routine security tasks, specifically focusing on lo
    - Sends an alert to administrators upon successful completion of security tasks, ensuring prompt notification.
 
 
-***Ensure the presence of the syslog log file.
-***Modify the `log_file_path` variable in the script to point to your syslog log file.
+ -Ensure the presence of the syslog log file.
+ -Modify the `log_file_path` variable in the script to point to your syslog log file.
 
